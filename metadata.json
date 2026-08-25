@@ -1,0 +1,10 @@
+{
+  "name": "Remix: OffTune Planet",
+  "description": "跑调不扣分，跑偏才出圈。基于 AI 的创意反调星球歌唱共鸣器与曲风合成器。",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
